@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building AI-powered apps & ML models  <br>👯 Open to collaborating on innovative tech + startup ideas  <br>🤝 Need help with scaling projects & backend systems  <br>🌱 Learning ML, web & mobile development  <br>💬 Ask me about React,Java, and MERN stack  <br>⚡ I enjoy building projects faster than overthinking them
+🔭 Currently building AI-powered apps & ML models  <br>👯 Open to collaborating on innovative tech + startup ideas  <br>🤝 Need help with scaling projects & backend systems  <br>🌱 Learning ML, web & mobile development  <br>💬 Ask me about DSA, Java, and MERN stack  <br>⚡ I enjoy building projects faster than overthinking them
 
 
 ## 🌐 Socials:
